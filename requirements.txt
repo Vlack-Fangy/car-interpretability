@@ -1,0 +1,13 @@
+torch
+transformers
+accelerate
+datasets
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+Pillow
+# Optional CNN experiment dependencies:
+torchvision
+quantus
